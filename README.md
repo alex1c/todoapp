@@ -1,4 +1,4 @@
-# Todo app simple CRUD with next.js
+# Todo app. Simple CRUD with next.js
 
 simple todo list app. used next.js
 
