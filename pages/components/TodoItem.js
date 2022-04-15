@@ -9,6 +9,7 @@ function TodoItem({ todo }) {
   const [inputData, setInputData] = useState({});
 
   let d = "";
+  let data = ''
 
   const requestParams = {
     method: "DELETE",
